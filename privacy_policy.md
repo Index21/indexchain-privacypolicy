@@ -5,12 +5,12 @@ Indexchain takes your privacy seriously. To better protect your privacy we provi
 
 ## Collection of Routine Information
 
-This app track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific user to this app. The information is tracked for routine administration and maintenance purposes.
+This app does not track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages.
 
 
 ## Cookies
 
-Where necessary, this app uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the user with customized content.
+Where necessary, this app uses cookies to store information about a visitor’s preferences and history in order to better serve the user and/or present the user with customized content.
 
 
 ## Advertisement and Other Third Parties
