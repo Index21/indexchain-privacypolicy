@@ -32,4 +32,4 @@ Indexchain reserve the right to update or change its Privacy Policy at any time 
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send us an email to Indexchain67@gmail.com.
+For any questions or concerns regarding the privacy policy, please send us an email to Indexchain67@gmail.com or contact us on signal via +44 7538 054669
